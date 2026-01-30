@@ -5,7 +5,7 @@ const Header = () => {
         // Main container for the header section  containing a container for a header logo and navigation items
         <div className="header">
                 <div className="header-logo">
-                    <a href="#app"><h3 className="header-name">JOHN DOE</h3></a>
+                    <a href="#app"><h3 className="header-name">Frank Yubi</h3></a>
                 </div>
                 <div className="header-container">
                     <div className="nav-item"><a href="#about">About</a></div>
